@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 1efd7c018843cec41ae4b809148752d4
+timeCreated: 1492470119
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AK_47
+    100002: Arms
+    100004: Bone_end
+    100006: CINEMA_4D_Editor
+    100008: clavicle_l
+    100010: clavicle_r
+    100012: hand_l
+    100014: hand_r
+    100016: index_01_l
+    100018: index_01_r
+    100020: index_02_l
+    100022: index_02_r
+    100024: index_03_l
+    100026: index_03_l_end
+    100028: index_03_r
+    100030: index_03_r_end
+    100032: lowerarm_l
+    100034: lowerarm_l_001
+    100036: lowerarm_l_end
+    100038: lowerarm_r
+    100040: lowerarm_r_001
+    100042: lowerarm_r_end
+    100044: M4_Carbine
+    100046: male01Mesh
+    100048: middle_01_l
+    100050: middle_01_r
+    100052: middle_02_l
+    100054: middle_02_r
+    100056: middle_03_l
+    100058: middle_03_l_end
+    100060: middle_03_r
+    100062: middle_03_r_end
+    100064: pinky_01_l
+    100066: pinky_01_r
+    100068: pinky_02_l
+    100070: pinky_02_r
+    100072: pinky_03_l
+    100074: pinky_03_l_end
+    100076: pinky_03_r
+    100078: pinky_03_r_end
+    100080: ring_01_l
+    100082: ring_01_r
+    100084: ring_02_l
+    100086: ring_02_r
+    100088: ring_03_l
+    100090: ring_03_l_end
+    100092: ring_03_r
+    100094: ring_03_r_end
+    100096: //RootNode
+    100098: thumb_01_l
+    100100: thumb_01_r
+    100102: thumb_02_l
+    100104: thumb_02_r
+    100106: thumb_03_l
+    100108: thumb_03_l_end
+    100110: thumb_03_r
+    100112: thumb_03_r_end
+    100114: upperarm_l
+    100116: upperarm_r
+    100118: Weapon
+    400000: AK_47
+    400002: Arms
+    400004: Bone_end
+    400006: CINEMA_4D_Editor
+    400008: clavicle_l
+    400010: clavicle_r
+    400012: hand_l
+    400014: hand_r
+    400016: index_01_l
+    400018: index_01_r
+    400020: index_02_l
+    400022: index_02_r
+    400024: index_03_l
+    400026: index_03_l_end
+    400028: index_03_r
+    400030: index_03_r_end
+    400032: lowerarm_l
+    400034: lowerarm_l_001
+    400036: lowerarm_l_end
+    400038: lowerarm_r
+    400040: lowerarm_r_001
+    400042: lowerarm_r_end
+    400044: M4_Carbine
+    400046: male01Mesh
+    400048: middle_01_l
+    400050: middle_01_r
+    400052: middle_02_l
+    400054: middle_02_r
+    400056: middle_03_l
+    400058: middle_03_l_end
+    400060: middle_03_r
+    400062: middle_03_r_end
+    400064: pinky_01_l
+    400066: pinky_01_r
+    400068: pinky_02_l
+    400070: pinky_02_r
+    400072: pinky_03_l
+    400074: pinky_03_l_end
+    400076: pinky_03_r
+    400078: pinky_03_r_end
+    400080: ring_01_l
+    400082: ring_01_r
+    400084: ring_02_l
+    400086: ring_02_r
+    400088: ring_03_l
+    400090: ring_03_l_end
+    400092: ring_03_r
+    400094: ring_03_r_end
+    400096: //RootNode
+    400098: thumb_01_l
+    400100: thumb_01_r
+    400102: thumb_02_l
+    400104: thumb_02_r
+    400106: thumb_03_l
+    400108: thumb_03_l_end
+    400110: thumb_03_r
+    400112: thumb_03_r_end
+    400114: upperarm_l
+    400116: upperarm_r
+    400118: Weapon
+    2300000: AK_47
+    2300002: M4_Carbine
+    3300000: AK_47
+    3300002: M4_Carbine
+    4300000: AK_47
+    4300002: M4_Carbine
+    4300004: male01Mesh
+    9500000: //RootNode
+    13700000: male01Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 17e40dbd3ce54d14aaf12c5eb364e56f,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
